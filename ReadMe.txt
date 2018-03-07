@@ -1,0 +1,16 @@
+main.cpp
+	主程序
+lib\AnsStream
+	用于存储结果，和外部结果比对时自动生成并存储指标
+lib\C4.5
+	C4.5算法函数
+lib\Divider
+	用于分割文件
+lib\Gini
+	Gini指数算法函数
+lib\ID3
+	ID3算法函数
+lib\Reader
+	读取文件的类
+lib\Tree
+	建树的类、具有根据(2维)数组得到(2维)数组所属类的功能
